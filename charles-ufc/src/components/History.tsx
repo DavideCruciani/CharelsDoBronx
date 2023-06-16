@@ -6,7 +6,7 @@ type HistoryProps = {
 
 const History = ({Scouter, FirstFight, Champion}: HistoryProps) => {
   return (
-    <section className="min-h-screen bg-blue-900" id="history">
+    <section className="min-h-screen bg-blue-950" id="history">
       <div className="container mx-auto px-5 text-center">
         <div className="flex flex-col-reverse justify-center items-center lg:flex-row  w-full pt-20">
           <div className="w-full lg:w-1/2">
