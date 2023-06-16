@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-  cursor: url("./assets/cursor/goat-sm.png"), auto;
+  cursor: url("./assets/cursor/goat-bigger-cursor.png"), auto;
 }
 
 html {
