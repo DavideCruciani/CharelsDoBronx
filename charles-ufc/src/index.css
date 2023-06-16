@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  cursor: url("./assets/cursor/goat-sm.png"), auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
