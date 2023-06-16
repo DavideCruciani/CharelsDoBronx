@@ -9,7 +9,11 @@ export default {
       'Sedgwick': ['Sedgwick Ave Display', 'sans-serif'],
       'Lakki': ['Lakki Reddy', 'sans-serif'],
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'gradient-top': 'linear-gradient(to bottom, rgba(21, 128, 61, 0.5) 0%, rgba(0, 0, 0, 0) 70%)'
+      },
+    },
   },
   plugins: [],
 }
