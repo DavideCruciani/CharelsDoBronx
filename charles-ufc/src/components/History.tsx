@@ -16,12 +16,12 @@ const History = ({Scouter, FirstFight, Champion}: HistoryProps) => {
             <img className="w-full h-[500px] object-cover border-4 border-yellow-400" src={Scouter} alt="Charles in a scouter" />
           </div>
           <div className="w-full lg:w-1/2 flex items-center justify-center p-4">
-            <h2 className="text-yellow-400 font-Lakki 2xl:text-9xl xl:text-8xl text-7xl">From Nothing...</h2>
+            <h2 className="text-yellow-400 font-Lakki 2xl:text-9xl xl:text-8xl text-6xl">From Nothing</h2>
           </div>
         </div>
         <div className="flex w-full flex-col lg:flex-row justify-center items-center py-5 lg:py-10">
           <div className="w-full lg:w-1/2 flex items-center justify-center p-4">
-            <h2 className="text-yellow-400 font-Lakki 2xl:text-9xl xl:text-8xl text-7xl">To Something...</h2>
+            <h2 className="text-yellow-400 font-Lakki 2xl:text-9xl xl:text-8xl text-6xl">To Something</h2>
           </div>
           <div className="w-full lg:w-1/2">
             <img className="w-full h-[500px] object-cover border-4 border-yellow-400" src={FirstFight} alt="Charles in a scouter" />
@@ -32,7 +32,7 @@ const History = ({Scouter, FirstFight, Champion}: HistoryProps) => {
             <img className="w-full h-[500px] object-cover object-left border-4 border-yellow-400" src={Champion} alt="Charles in a scouter" />
           </div>
           <div className="w-full lg:w-1/2 flex items-center justify-center p-4">
-            <h2 className="text-yellow-400 font-Lakki 2xl:text-9xl xl:text-8xl text-7xl">To Everything</h2>
+            <h2 className="text-yellow-400 font-Lakki 2xl:text-9xl xl:text-8xl text-6xl">To Everything</h2>
           </div>
         </div>
       </div>

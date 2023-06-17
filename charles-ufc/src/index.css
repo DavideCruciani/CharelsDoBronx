@@ -14,6 +14,7 @@ li a {
   text-shadow: 0px 0px 3px #15803D;
 }
 
+@media only screen and (min-width: 767px) {
 ::-webkit-scrollbar {
   width: 15px;
 }
@@ -28,4 +29,5 @@ li a {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #FACC15;
+}
 }
